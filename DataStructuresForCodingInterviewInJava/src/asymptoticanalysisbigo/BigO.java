@@ -9,6 +9,9 @@ public class BigO {
          * the Big O notation is O(n^2)
          * TBC
          * combine the Educative.io and colt steel
+         *
+         * TBC on Common Complexity Scenarios
+         * ==> Imoved to array to continue with the above later.
          */
     }
 }

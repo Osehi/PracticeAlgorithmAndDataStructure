@@ -3,8 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AlgorithmPractice.iml" filepath="$PROJECT_DIR$/AlgorithmPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuildKotlinSkills/BuildKotlinSkills.iml" filepath="$PROJECT_DIR$/BuildKotlinSkills/BuildKotlinSkills.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataStructuresForCodingInterviewInJava/DataStructuresForCodingInterviewInJava.iml" filepath="$PROJECT_DIR$/DataStructuresForCodingInterviewInJava/DataStructuresForCodingInterviewInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTransferObject/DataTransferObject.iml" filepath="$PROJECT_DIR$/DataTransferObject/DataTransferObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FreeStylePractice/FreeStylePractice.iml" filepath="$PROJECT_DIR$/FreeStylePractice/FreeStylePractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestGround/GeneralAlgorithmPractice.iml" filepath="$PROJECT_DIR$/TestGround/GeneralAlgorithmPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCodeAlgorithmPractice/LeetCodeAlgorithmPractice.iml" filepath="$PROJECT_DIR$/LeetCodeAlgorithmPractice/LeetCodeAlgorithmPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeAlgoTechniques/PracticeAlgoTechniques.iml" filepath="$PROJECT_DIR$/PracticeAlgoTechniques/PracticeAlgoTechniques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolvingAlgorithmTechnique/SolvingAlgorithmTechnique.iml" filepath="$PROJECT_DIR$/SolvingAlgorithmTechnique/SolvingAlgorithmTechnique.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestGround/TestGround.iml" filepath="$PROJECT_DIR$/TestGround/TestGround.iml" />
     </modules>
   </component>

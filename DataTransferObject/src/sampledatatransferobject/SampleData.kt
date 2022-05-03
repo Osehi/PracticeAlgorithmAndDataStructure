@@ -1,0 +1,5 @@
+package sampledatatransferobject
+
+object SampleData {
+
+}
