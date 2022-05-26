@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AlgorithmPractice.iml" filepath="$PROJECT_DIR$/AlgorithmPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayPractice/ArrayPractice.iml" filepath="$PROJECT_DIR$/ArrayPractice/ArrayPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuildKotlinSkills/BuildKotlinSkills.iml" filepath="$PROJECT_DIR$/BuildKotlinSkills/BuildKotlinSkills.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataStructuresForCodingInterviewInJava/DataStructuresForCodingInterviewInJava.iml" filepath="$PROJECT_DIR$/DataStructuresForCodingInterviewInJava/DataStructuresForCodingInterviewInJava.iml" />
