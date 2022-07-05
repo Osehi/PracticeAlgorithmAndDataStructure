@@ -1,14 +1,17 @@
 package arrays
 
 fun main(){
-    var lines = arrayListOf<Int>(1,2,3,4,5,6)
-    lines[0] = lines[5]
-    println(lines)
-    println("here is an output: ${lines.indexOf(1)}")
+//    var lines = arrayListOf<Int>(1,2,3,4,5,6)
+//    lines[0] = lines[5]
+//    println(lines)
+//    println("here is an output: ${lines.indexOf(1)}")
 
-//    check()
+    check()
 }
 
+/**
+ * this did not work as expected
+ */
 fun check(){
     var scores = arrayListOf<Int>(1, 2, 3, 4, 5)
     val rotateByIndexOfOne = 1
