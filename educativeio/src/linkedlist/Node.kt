@@ -1,5 +1,5 @@
 package linkedlist
 
 class Node<T>(val data: T) {
-    val nextNode: Node<T>? = null
+    var nextNode: Node<T>? = null
 }

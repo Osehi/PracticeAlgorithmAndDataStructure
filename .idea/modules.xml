@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayPractice/ArrayPractice.iml" filepath="$PROJECT_DIR$/ArrayPractice/ArrayPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuildKotlinSkills/BuildKotlinSkills.iml" filepath="$PROJECT_DIR$/BuildKotlinSkills/BuildKotlinSkills.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodePRacticeInJava/CodePRacticeInJava.iml" filepath="$PROJECT_DIR$/CodePRacticeInJava/CodePRacticeInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DailyAlgorithmPractice/DailyAlgorithmPractice.iml" filepath="$PROJECT_DIR$/DailyAlgorithmPractice/DailyAlgorithmPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataStructuresForCodingInterviewInJava/DataStructuresForCodingInterviewInJava.iml" filepath="$PROJECT_DIR$/DataStructuresForCodingInterviewInJava/DataStructuresForCodingInterviewInJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataTransferObject/DataTransferObject.iml" filepath="$PROJECT_DIR$/DataTransferObject/DataTransferObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Educativeiojava/Educativeiojava.iml" filepath="$PROJECT_DIR$/Educativeiojava/Educativeiojava.iml" />
@@ -17,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/TestGround/TestGround.iml" filepath="$PROJECT_DIR$/TestGround/TestGround.iml" />
       <module fileurl="file://$PROJECT_DIR$/VideoContentDevelopment/VideoContentDevelopment.iml" filepath="$PROJECT_DIR$/VideoContentDevelopment/VideoContentDevelopment.iml" />
       <module fileurl="file://$PROJECT_DIR$/educativeio/educativeio.iml" filepath="$PROJECT_DIR$/educativeio/educativeio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlinCodingChallenge/kotlinCodingChallenge.iml" filepath="$PROJECT_DIR$/kotlinCodingChallenge/kotlinCodingChallenge.iml" />
     </modules>
   </component>
 </project>

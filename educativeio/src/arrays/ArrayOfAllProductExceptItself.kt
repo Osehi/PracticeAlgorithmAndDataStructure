@@ -22,4 +22,6 @@ fun main(){
     println(productOfItems)
     // to be check it
 
+    // output: [24, 12, 8, 6]
+
 }

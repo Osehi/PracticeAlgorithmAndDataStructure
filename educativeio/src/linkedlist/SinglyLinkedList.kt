@@ -1,6 +1,6 @@
 package linkedlist
 
-class SinglyLinkedList<T>(val headNode:Node<T>, val size:Int) {
+class SinglyLinkedList<T>(var headNode:Node<T>, var size:Int) {
 
 
     fun isEmpty(): Boolean {
@@ -8,6 +8,13 @@ class SinglyLinkedList<T>(val headNode:Node<T>, val size:Int) {
             return true
         }
         return false
+    }
+
+    fun insertAtHead(data: T){
+        val newNode = Node<T>(data)
+        newNode.nextNode = headNode
+        headNode = newNode
+        size++
     }
 
 }

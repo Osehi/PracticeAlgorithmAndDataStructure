@@ -6,7 +6,27 @@ fun main(){
 //    println(lines)
 //    println("here is an output: ${lines.indexOf(1)}")
 
-    check()
+//    check()
+
+    rotateArrayToRight()
+}
+// very correct
+fun rotateArrayToRight(){
+    var scores = arrayListOf<Int>(1, 2, 3, 4, 5)
+    val k = 6
+    // create an empty array
+    val result = mutableListOf<Int>()
+    // the trick
+    val arraySize = scores.size // 5
+    val positionOfItemAfterRotation = arraySize - k % arraySize //(5 - 2 = 3)
+    for (i in positionOfItemAfterRotation until arraySize) {
+        result.add(scores[i])
+    }
+
+    for (j in 0 until positionOfItemAfterRotation) {
+        result.add(scores[j])
+    }
+    println("Here is the result: ${result}")
 }
 
 /**
