@@ -1,5 +1,6 @@
 import java.math.BigDecimal;
 import java.text.NumberFormat;
+import java.util.Arrays;
 import java.util.Currency;
 import java.util.Locale;
 
@@ -7,6 +8,8 @@ public class Localization {
 
     //    [14:19] Peter Oloba
     public static void main(String[] args) {
+        int[] A = new int[0];
+        Arrays.sort(A);
 
     }
 
