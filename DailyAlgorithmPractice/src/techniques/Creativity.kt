@@ -1,7 +1,11 @@
 package techniques
 
 fun main() {
-    steps()
+   // spell my name
+    val urName = "Osehi"
+    for(i in urName) {
+       println(i)
+    }
 }
 
 fun steps() {
